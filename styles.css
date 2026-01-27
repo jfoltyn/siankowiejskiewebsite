@@ -118,6 +118,9 @@ a:hover { opacity: .92; }
   margin-left: auto;
   margin-right: auto;
 }
+.hero h2 {
+  font-size: 28px;
+}
 
 .hero p {
   color: var(--muted);
